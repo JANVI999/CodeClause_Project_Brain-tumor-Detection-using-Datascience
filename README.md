@@ -4,7 +4,7 @@ A convolutional neural network (CNN or ConvNet) is a network architecture for de
 Deep learning [22], which is inspired by an understanding of the neural networks within the human brain, has achieved unprecedented success in facing the challenges mentioned above by incorporating the feature extraction and selection steps into the training process [23]. Generically, deep learning models are represented by a series of layers, and each is formed by a weighted sum of elements in the previous layer. The first layer represents the data, and the last layer represents the output or solution. Multiple layers enable complicated mapping functions to be reproduced, allowing deep learning models to solve very challenging problems while typically needing less human intervention than traditional machine learning methods. Deep learning currently outperforms alternative machine learning approaches [24] and, for the past few years, has been widely used for a variety of tasks in medical image analysis [25].
 For Designing Model Imported necessary Libraries & Packages & Downloaded Dataset from https://www.kaggle.com/- /content/brain_tumor_dataset
 Performed various operations on The images from Dataset:- 
-![tumor_image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/9ef158c6-c73e-4ebf-8c10-b9f6e9b9b79c)
+
 ![Cropped_image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/2ded886c-e145-4cac-a9a3-33e7469e08a9) 
 ![image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/698727b7-a8c2-4368-9c40-4e37620c1784)
 Performed various operations and trained the model with accuracy of 88.1 %.
