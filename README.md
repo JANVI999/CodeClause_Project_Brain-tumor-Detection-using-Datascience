@@ -7,7 +7,10 @@ Performed various operations on The images from Dataset:-
 
 ![Cropped_image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/2ded886c-e145-4cac-a9a3-33e7469e08a9) 
 ![image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/698727b7-a8c2-4368-9c40-4e37620c1784)
+
 Performed various operations and trained the model with accuracy of 88.1 %.
+
 ![image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/8ec48e65-2f56-474e-b237-3498754d5e85)
+
 ![image](https://github.com/JANVI999/CodeClause_Project_Brain-tumor-Detection-using-Datascience/assets/83579839/5288bc36-de47-49d4-aa14-79cdb6654887)
 
